@@ -1,0 +1,1 @@
+export default 'https://newsapi.org/v2/';
